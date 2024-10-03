@@ -1,0 +1,55 @@
+body{
+  
+    background-color: burlywood;
+    color: black;
+
+}
+
+.header{
+    text-align: center;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .box{
+    text-align: justify;
+    padding: 5px 70px 5px 70px;
+    margin: 2% 30% 2% 30%;
+    box-shadow: 0 0 20px #e75d0c , 0 0 40px #f0f348;
+    background-color: rgb(223, 175, 114);
+
+  }
+
+  .bullets{
+
+  }
+
+  .bullets li{
+    padding: 10px;
+    font-size: large;
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .corner {
+      position: relative;
+  }
+  
+  .left {
+      position: absolute;
+      top: 0;
+      left: 0;
+  }
+  
+  .right {
+      position: absolute;
+      top: 0;
+      right: 0;
+  }
+  
+
+.effect{
+  text-shadow: 3px 3px 5px rgb(235, 107, 171)
+}
